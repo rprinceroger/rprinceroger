@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **prince.robielos@gmail.com**
 
-- 📄 Know about my experiences [Click here for my web portfolio.]([https://rprinceroger.github.io/mywebportfolio/](https://mywebportfolio-zeta.vercel.app/))
+- 📄 Know about my experiences [Click here for my web portfolio.](https://mywebportfolio-zeta.vercel.app/)
 
 - ⚡ Fun fact **I'm a foodie but never get fat.**
 
