@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rprinceroger&label=Profile%20views&color=0e75b6&style=flat" alt="rprinceroger" /> </p>
 
-- 🌱 I’m currently learning **PHP and some other programming languages.**
+- 🌱 I’m currently learning **Python, jQuery, PHP and some other programming languages.**
 
 - 💬 Ask me about **Anime!**
 
 - 📫 How to reach me **prince.robielos@gmail.com**
 
-- 📄 Know about my experiences [https://rprinceroger.github.io/mywebportfolio/](https://rprinceroger.github.io/mywebportfolio/)
+- 📄 Know about my experiences [Click here for my web portfolio.]([https://rprinceroger.github.io/mywebportfolio/](https://mywebportfolio-zeta.vercel.app/))
 
 - ⚡ Fun fact **I'm a foodie but never get fat.**
 
